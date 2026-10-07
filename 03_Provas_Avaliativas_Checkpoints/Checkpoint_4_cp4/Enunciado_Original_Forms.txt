@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Sistemas Cyber-Físicos & Tecnologias Assistivas
+Turma 5ECS • Ano 2026
+Checkpoint 04: Gêmeos Digitais (Digital Twins) e Co-Simulação Cyber-Física
+
+ENUNCIADO ORIGINAL:
+Desenvolver a co-simulação e validação de um Gêmeo Digital sincronizado em tempo real com o exoesqueleto robótico físico via protocolo MQTT e WebSocket. Avaliar o erro de rastreamento de trajetória (Tracking Error) entre o modelo computacional preditivo baseado em equações dinâmicas de Newton-Euler e os dados reais de bancada sob perturbações externas.

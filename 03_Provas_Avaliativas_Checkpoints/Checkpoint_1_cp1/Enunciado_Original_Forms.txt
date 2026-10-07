@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Sistemas Cyber-Físicos & Tecnologias Assistivas
+Turma 5ECS • Ano 2026
+Checkpoint 01: Sensoriamento Conectado e os 12 Desafios da API Gemini no ESP32/ESP8266
+
+ENUNCIADO ORIGINAL:
+Implementar e integrar a pilha de comunicação segura HTTP/REST e WebSocket em microcontroladores ESP32/ESP8266 para executar a suíte completa dos 12 desafios de inteligência artificial generativa com a Google Gemini API. Tratar autenticação por API Key segura, envio de telemetria estruturada e parsing de respostas JSON em tempo real com recursos restritos de memória.

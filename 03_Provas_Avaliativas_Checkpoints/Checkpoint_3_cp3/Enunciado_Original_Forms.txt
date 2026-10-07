@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Sistemas Cyber-Físicos & Tecnologias Assistivas
+Turma 5ECS • Ano 2026
+Checkpoint 03: Arquitetura de Controle e Atuação para Exoesqueleto Assistivo Upper Limb
+
+ENUNCIADO ORIGINAL:
+Dimensionar o sistema de acionamento, motores e malha de controle de torque e posição para um exoesqueleto robótico de membro superior (Exo Upper Limb) projetado para redução de esforço ergonômico no levantamento e sustentação de ferramentas pesadas na indústria automotiva. Calcular o torque necessário na articulação do cotovelo para carga de 5 kg.

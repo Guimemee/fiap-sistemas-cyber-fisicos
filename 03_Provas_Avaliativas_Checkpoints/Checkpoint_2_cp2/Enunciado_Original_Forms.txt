@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Sistemas Cyber-Físicos & Tecnologias Assistivas
+Turma 5ECS • Ano 2026
+Checkpoint 02: Consolidação de Relatórios Práticos de Laboratório e Fusão Sensorial
+
+ENUNCIADO ORIGINAL:
+Consolidar os relatórios experimentais das aulas laboratoriais da disciplina, demonstrando o processamento de sinais de sensores inerciais (IMU MPU6050/ICM-42688) utilizando Filtro Complementar e Filtro de Kalman discreto para estimativa precisa dos ângulos de Roll e Pitch, eliminando o efeito do drift do giroscópio e o ruído de vibração do acelerômetro.
